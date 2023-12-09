@@ -22,9 +22,11 @@ Once downloaded, please put them into the `data` folder to run the notebooks.
 AFib-Detection-Survey/
 │
 ├── src/ # Source files
-│ ├── main.py # Main script
+│ ├── Inference Notebok.ipynb # Main script running inference through saved model files
 │ └── LSTM_Training.ipynb # How the LSTM training was done
 │ └── MLP_and_LogRegression.ipynb # How the MLP and Logistic Regression training was done
+│ └── Final_Transformer.ipynb # How the Transformer training was done (unweighted)
+│ └── Final_Transformer_weighted.ipynb # How the Transformer training was done (weighted)
 │
 ├── data/ # Data files
 │ └── coorteeqsrafva.csv # Patient demographic CSV
