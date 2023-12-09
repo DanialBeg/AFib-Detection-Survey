@@ -27,6 +27,7 @@ AFib-Detection-Survey/
 │ └── MLP_and_LogRegression.ipynb # How the MLP and Logistic Regression training was done
 │ └── Final_Transformer.ipynb # How the Transformer training was done (unweighted)
 │ └── Final_Transformer_weighted.ipynb # How the Transformer training was done (weighted)
+│ └── Pre_processing_Transformer.ipynb # How the data passed into the transformer was pre-processed
 │
 ├── data/ # Data files
 │ └── coorteeqsrafva.csv # Patient demographic CSV
