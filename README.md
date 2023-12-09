@@ -1,5 +1,5 @@
 # AFib-Detection-Survey
-*Authors: Danial Beg and Sahithi Chimmula*
+*Authors: Danial Beg (dbeg@uci.edu) and Sahithi Chimmula (schimmul@uci.edu)*
 
 ## Table of Contents
 - [Overview](#overview)
@@ -40,3 +40,6 @@ AFib-Detection-Survey/
 │
 └── README.md # Project documentation
 ```
+
+## Usage
+The main file to run is `Inference Notebok.ipynb` as it utilizes all the saved models and then runs inference with these models. Please ensure the file structure follows the convention as outlined in [File Structure](#file-structure).
